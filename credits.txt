@@ -1,5 +1,0 @@
-Hello! This srp tracker for after the flash was created by me, Nova. My discord is mcnugget_o.
-
-This is open source, but I would like if you added credits if you plan on releasing versions of it. Also make sure the srp tracker.py is in a folder for it to work.
-
-WARNING: Python is required for this to work. Download it at https://www.python.org/
