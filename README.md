@@ -1,8 +1,8 @@
 STEPS:
 
-Click <Code>
+Click Code
 Download ZIP FILE
 Extract
 Open Dist Foler
-Execute the .EXE
+Execute the EXE file
 Enjoy!
